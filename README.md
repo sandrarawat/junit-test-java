@@ -37,7 +37,7 @@ IllegalArgumentExceptionTest - mainClassTest
 NullPointerExceptionTest - mainClassTest
 
 ## To Run:
-1. Install testing extension (eg. Test Runner for Java on Visual Studio code)
+1. Install testing extension (eg. Test Runner for Java on VScode)
 2. Open Test Explorer to shows all the test cases in the workspace
 3. To run tests select the green play button, on specific classes or entire workspace. You can also right-click on the play button to see more options. Demonstrated below
 
