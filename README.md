@@ -1,6 +1,6 @@
 # JUnit Insurance Program
 
-This Java program contains an Insurance program that is refactored to run an efficient JUnit Test suite.
+This Java program contains an Insurance program that is refactored and encapsulated to run an efficient JUnit Test suite.
 
 ## Classes and Test Classes
 
