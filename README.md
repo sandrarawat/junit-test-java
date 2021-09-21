@@ -38,8 +38,9 @@ NullPointerExceptionTest - mainClassTest
 
 ## To Run:
 1. Install testing extension (eg. Test Runner for Java on Visual Studio code)
-2. Open Test Explorer 
-3. Run tests as demonstarted: ![alt text](https://github.com/sandrarawat/junit-test-java/blob/main/testsuite.gif "Logo Title Text 1")
+2. Open Test Explorer to shows all the test cases in the workspace
+3. To run tests select the green play button, on specific classes or entire workspace. You can also right-click on the play button to see more options. Demonstrated below
+  ![alt text](https://github.com/sandrarawat/junit-test-java/blob/main/testsuite.gif "Logo Title Text 1")
 
 
 
