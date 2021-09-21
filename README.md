@@ -1,4 +1,4 @@
-# junit-insurance-program
+# JUnit Insurance Program
 
 This Java program contains an Insurance program that is refactored to run an efficient JUnit Test suite.
 
@@ -36,5 +36,10 @@ IllegalArgumentExceptionTest - mainClassTest
 
 NullPointerExceptionTest - mainClassTest
 
+## To Run:
+1. Install testing extension (eg. Test Runner for Java on Visual Studio code)
+2. Open Test Explorer 
+3. Run tests as demonstarted in below gif
+
 ![alt text](https://github.com/sandrarawat/junit-test-java/blob/main/testsuite.gif "Logo Title Text 1")
-![](https://giphy.com/gifs/junit-testsuite-7NTOrlsUssnh6ImKQx)
+
