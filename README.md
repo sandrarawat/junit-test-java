@@ -36,3 +36,4 @@ IllegalArgumentExceptionTest - mainClassTest
 
 NullPointerExceptionTest - mainClassTest
 
+![Alt Text](https://giphy.com/gifs/junit-testsuite-7NTOrlsUssnh6ImKQx)
