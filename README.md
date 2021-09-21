@@ -39,7 +39,7 @@ NullPointerExceptionTest - mainClassTest
 ## To Run:
 1. Install testing extension (eg. Test Runner for Java on Visual Studio code)
 2. Open Test Explorer 
-3. Run tests as demonstarted in below gif
+3. Run tests as demonstarted: ![alt text](https://github.com/sandrarawat/junit-test-java/blob/main/testsuite.gif "Logo Title Text 1")
 
-![alt text](https://github.com/sandrarawat/junit-test-java/blob/main/testsuite.gif "Logo Title Text 1")
+
 
