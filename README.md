@@ -1,4 +1,4 @@
-# JUnit Insurance Program
+# Insurance Program with JUnit testing
 
 This Java program contains a refactored and encapsulated Insurance program with an efficient JUnit Test suite.
 
